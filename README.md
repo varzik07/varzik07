@@ -81,11 +81,13 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oybek0407&show_icons=true&locale=en&layout=compact" alt="varzik07" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&locale=en&layout=compact" />
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oybek0407&show_icons=true&locale=en" alt="varzik07" />
+ 
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en" />
 </p>
 
 ---
