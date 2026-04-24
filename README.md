@@ -81,15 +81,12 @@
 <h3 align="left">📊 GitHub Stats:</h3>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUR_USERNAME&show_icons=true&locale=en&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varzik07&layout=compact&theme=default" />
 </p>
 
 <p>
- 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&locale=en" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=varzik07&show_icons=true&theme=default" />
 </p>
-
 ---
 
 <h3 align="left">🚀 Current Focus:</h3>
